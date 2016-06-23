@@ -1,0 +1,1 @@
+http://lingvr.com/sdk/sdk.html
